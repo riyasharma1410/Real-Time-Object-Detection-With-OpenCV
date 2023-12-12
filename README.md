@@ -19,7 +19,7 @@ cd ~/Desktop/opencv_project
 **Step 2:** Clone the repository and cd into the folder:
 
 ```
-git clone https://github.com/Surya-Murali/Real-Time-Object-Detection-With-OpenCV.git
+git clone https://github.com/riyasharma1410/Real-Time-Object-Detection-With-OpenCV.git
 cd Real-Time-Object-Detection-With-OpenCV
 ```
 **Step 3:** Install all the necessary libraries. I used MacOS for this project. These are some of the libraries I had to install:
@@ -54,10 +54,3 @@ python real_time_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt
 ```
 python real_time_object_detection.py --help
 ```
-
-### References and Useful Links
-
-* https://github.com/chuanqi305/MobileNet-SSD
-* https://github.com/opencv/opencv
-* https://www.pyimagesearch.com/2017/11/06/deep-learning-opencvs-blobfromimage-works/
-* https://github.com/jrosebr1/imutils
